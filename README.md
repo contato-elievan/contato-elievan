@@ -1,2 +1,2 @@
-Olá me chamo Elievan e estou iniciando hoje meu estudo me PHP.
+Olá me chamo Elievan
 Segue a primeira aula.
